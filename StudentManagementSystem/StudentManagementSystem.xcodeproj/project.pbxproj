@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A90BCFA21B699174005E0106 /* ShraddhaStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A90BCFA11B699174005E0106 /* ShraddhaStoryboard.storyboard */; };
+		A90BCFA51B6995E2005E0106 /* ParentsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A90BCFA41B6995E2005E0106 /* ParentsViewController.m */; };
+		A90BCFA91B69A3CC005E0106 /* AddParentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A90BCFA81B69A3CC005E0106 /* AddParentViewController.m */; };
+		A9ABF0DB1B6AEAB600B6C289 /* FeedbackViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A9ABF0DA1B6AEAB600B6C289 /* FeedbackViewController.m */; };
+		A9ABF0E01B6AEDC200B6C289 /* down arrow.png in Resources */ = {isa = PBXBuildFile; fileRef = A9ABF0DF1B6AEDC200B6C289 /* down arrow.png */; };
+		A9ABF0E31B6AF0D700B6C289 /* DocumentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A9ABF0E21B6AF0D700B6C289 /* DocumentViewController.m */; };
+		A9ABF0F71B6AF6B900B6C289 /* download.png in Resources */ = {isa = PBXBuildFile; fileRef = A9ABF0F61B6AF6B900B6C289 /* download.png */; };
+		A9ABF0FA1B6AF83400B6C289 /* PunchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A9ABF0F91B6AF83400B6C289 /* PunchViewController.m */; };
+		A9ABF0FF1B6AF8FB00B6C289 /* GalleryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A9ABF0FE1B6AF8FB00B6C289 /* GalleryViewController.m */; };
 		A9B0D21B1B5DDDED00AAECCB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A9B0D21A1B5DDDED00AAECCB /* main.m */; };
 		A9B0D21E1B5DDDED00AAECCB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A9B0D21D1B5DDDED00AAECCB /* AppDelegate.m */; };
 		A9B0D2211B5DDDED00AAECCB /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A9B0D2201B5DDDED00AAECCB /* ViewController.m */; };
@@ -27,6 +36,21 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A90BCFA11B699174005E0106 /* ShraddhaStoryboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = ShraddhaStoryboard.storyboard; sourceTree = "<group>"; };
+		A90BCFA31B6995E2005E0106 /* ParentsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ParentsViewController.h; sourceTree = "<group>"; };
+		A90BCFA41B6995E2005E0106 /* ParentsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ParentsViewController.m; sourceTree = "<group>"; };
+		A90BCFA71B69A3CC005E0106 /* AddParentViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddParentViewController.h; sourceTree = "<group>"; };
+		A90BCFA81B69A3CC005E0106 /* AddParentViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddParentViewController.m; sourceTree = "<group>"; };
+		A9ABF0D91B6AEAB600B6C289 /* FeedbackViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FeedbackViewController.h; sourceTree = "<group>"; };
+		A9ABF0DA1B6AEAB600B6C289 /* FeedbackViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FeedbackViewController.m; sourceTree = "<group>"; };
+		A9ABF0DF1B6AEDC200B6C289 /* down arrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "down arrow.png"; path = "../down arrow.png"; sourceTree = "<group>"; };
+		A9ABF0E11B6AF0D700B6C289 /* DocumentViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DocumentViewController.h; sourceTree = "<group>"; };
+		A9ABF0E21B6AF0D700B6C289 /* DocumentViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DocumentViewController.m; sourceTree = "<group>"; };
+		A9ABF0F61B6AF6B900B6C289 /* download.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = download.png; sourceTree = "<group>"; };
+		A9ABF0F81B6AF83400B6C289 /* PunchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PunchViewController.h; sourceTree = "<group>"; };
+		A9ABF0F91B6AF83400B6C289 /* PunchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PunchViewController.m; sourceTree = "<group>"; };
+		A9ABF0FD1B6AF8FB00B6C289 /* GalleryViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GalleryViewController.h; sourceTree = "<group>"; };
+		A9ABF0FE1B6AF8FB00B6C289 /* GalleryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GalleryViewController.m; sourceTree = "<group>"; };
 		A9B0D2151B5DDDED00AAECCB /* StudentManagementSystem.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StudentManagementSystem.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9B0D2191B5DDDED00AAECCB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A9B0D21A1B5DDDED00AAECCB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -60,6 +84,46 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		A90BCFA61B6995EA005E0106 /* ParentsViewController */ = {
+			isa = PBXGroup;
+			children = (
+				A90BCFA31B6995E2005E0106 /* ParentsViewController.h */,
+				A90BCFA41B6995E2005E0106 /* ParentsViewController.m */,
+				A90BCFA71B69A3CC005E0106 /* AddParentViewController.h */,
+				A90BCFA81B69A3CC005E0106 /* AddParentViewController.m */,
+			);
+			name = ParentsViewController;
+			sourceTree = "<group>";
+		};
+		A9ABF0DC1B6AEB4200B6C289 /* FeedbackDocumentsViewController */ = {
+			isa = PBXGroup;
+			children = (
+				A9ABF0D91B6AEAB600B6C289 /* FeedbackViewController.h */,
+				A9ABF0DA1B6AEAB600B6C289 /* FeedbackViewController.m */,
+				A9ABF0E11B6AF0D700B6C289 /* DocumentViewController.h */,
+				A9ABF0E21B6AF0D700B6C289 /* DocumentViewController.m */,
+			);
+			name = FeedbackDocumentsViewController;
+			sourceTree = "<group>";
+		};
+		A9ABF0FB1B6AF83A00B6C289 /* PunchViewController */ = {
+			isa = PBXGroup;
+			children = (
+				A9ABF0F81B6AF83400B6C289 /* PunchViewController.h */,
+				A9ABF0F91B6AF83400B6C289 /* PunchViewController.m */,
+			);
+			name = PunchViewController;
+			sourceTree = "<group>";
+		};
+		A9ABF0FC1B6AF8E500B6C289 /* PhotoGallery */ = {
+			isa = PBXGroup;
+			children = (
+				A9ABF0FD1B6AF8FB00B6C289 /* GalleryViewController.h */,
+				A9ABF0FE1B6AF8FB00B6C289 /* GalleryViewController.m */,
+			);
+			name = PhotoGallery;
+			sourceTree = "<group>";
+		};
 		A9B0D20C1B5DDDED00AAECCB = {
 			isa = PBXGroup;
 			children = (
@@ -81,10 +145,17 @@
 		A9B0D2171B5DDDED00AAECCB /* StudentManagementSystem */ = {
 			isa = PBXGroup;
 			children = (
+				A9ABF0FC1B6AF8E500B6C289 /* PhotoGallery */,
+				A9ABF0FB1B6AF83A00B6C289 /* PunchViewController */,
+				A9ABF0DC1B6AEB4200B6C289 /* FeedbackDocumentsViewController */,
+				A90BCFA61B6995EA005E0106 /* ParentsViewController */,
 				A9B0D21C1B5DDDED00AAECCB /* AppDelegate.h */,
 				A9B0D21D1B5DDDED00AAECCB /* AppDelegate.m */,
+				A9ABF0F61B6AF6B900B6C289 /* download.png */,
 				A9B0D21F1B5DDDED00AAECCB /* ViewController.h */,
 				A9B0D2201B5DDDED00AAECCB /* ViewController.m */,
+				A9ABF0DF1B6AEDC200B6C289 /* down arrow.png */,
+				A90BCFA11B699174005E0106 /* ShraddhaStoryboard.storyboard */,
 				A9B0D2221B5DDDED00AAECCB /* Main.storyboard */,
 				A9B0D2251B5DDDED00AAECCB /* Images.xcassets */,
 				A9B0D2271B5DDDED00AAECCB /* LaunchScreen.xib */,
@@ -199,9 +270,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A90BCFA21B699174005E0106 /* ShraddhaStoryboard.storyboard in Resources */,
+				A9ABF0E01B6AEDC200B6C289 /* down arrow.png in Resources */,
 				A9B0D2241B5DDDED00AAECCB /* Main.storyboard in Resources */,
 				A9B0D2291B5DDDED00AAECCB /* LaunchScreen.xib in Resources */,
 				A9B0D2261B5DDDED00AAECCB /* Images.xcassets in Resources */,
+				A9ABF0F71B6AF6B900B6C289 /* download.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -221,7 +295,13 @@
 			files = (
 				A9B0D2211B5DDDED00AAECCB /* ViewController.m in Sources */,
 				A9B0D21E1B5DDDED00AAECCB /* AppDelegate.m in Sources */,
+				A90BCFA91B69A3CC005E0106 /* AddParentViewController.m in Sources */,
+				A9ABF0E31B6AF0D700B6C289 /* DocumentViewController.m in Sources */,
+				A90BCFA51B6995E2005E0106 /* ParentsViewController.m in Sources */,
+				A9ABF0FA1B6AF83400B6C289 /* PunchViewController.m in Sources */,
 				A9B0D21B1B5DDDED00AAECCB /* main.m in Sources */,
+				A9ABF0DB1B6AEAB600B6C289 /* FeedbackViewController.m in Sources */,
+				A9ABF0FF1B6AF8FB00B6C289 /* GalleryViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -416,6 +496,7 @@
 				A9B0D23A1B5DDDED00AAECCB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A9B0D23B1B5DDDED00AAECCB /* Build configuration list for PBXNativeTarget "StudentManagementSystemTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +505,7 @@
 				A9B0D23D1B5DDDED00AAECCB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
